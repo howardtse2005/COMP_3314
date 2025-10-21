@@ -1,0 +1,239 @@
+================================================================================
+DeepCrack Full-Resolution Evaluation Results - 20251015_235902
+Model: checkpoints/unet.pth
+Images saved in: results/images/evaluation_20251015_235902
+================================================================================
+
+Per-Image Metrics:
+----------------------------------------
+Image #0:
+  Warping Error: 0.0050
+  Rand Error: 0.5118
+  Pixel Error: 0.1353
+  IoU: 0.8204
+  TP: 191619, FP: 40792, TN: 28583, FN: 1150
+
+Image #1:
+  Warping Error: 0.0054
+  Rand Error: 0.5035
+  Pixel Error: 0.1367
+  IoU: 0.8180
+  TP: 189707, FP: 40876, TN: 30230, FN: 1331
+
+Image #2:
+  Warping Error: 0.0081
+  Rand Error: 0.7679
+  Pixel Error: 0.2346
+  IoU: 0.7001
+  TP: 160715, FP: 67540, TN: 32594, FN: 1295
+
+Image #3:
+  Warping Error: 0.0073
+  Rand Error: 0.7416
+  Pixel Error: 0.2205
+  IoU: 0.7145
+  TP: 164340, FP: 64676, TN: 32153, FN: 975
+
+Image #4:
+  Warping Error: 0.0054
+  Rand Error: 0.5705
+  Pixel Error: 0.1477
+  IoU: 0.7968
+  TP: 179773, FP: 43922, TN: 36534, FN: 1915
+
+Image #5:
+  Warping Error: 0.0056
+  Rand Error: 0.6374
+  Pixel Error: 0.1715
+  IoU: 0.7688
+  TP: 175873, FP: 51233, TN: 33387, FN: 1651
+
+Image #6:
+  Warping Error: 0.0063
+  Rand Error: 0.6699
+  Pixel Error: 0.1839
+  IoU: 0.7602
+  TP: 175922, FP: 53899, TN: 30727, FN: 1596
+
+Image #7:
+  Warping Error: 0.0058
+  Rand Error: 0.5924
+  Pixel Error: 0.1544
+  IoU: 0.7923
+  TP: 180278, FP: 45418, TN: 34595, FN: 1853
+
+Image #8:
+  Warping Error: 0.0057
+  Rand Error: 0.6059
+  Pixel Error: 0.1614
+  IoU: 0.7857
+  TP: 179622, FP: 47099, TN: 33542, FN: 1881
+
+Image #9:
+  Warping Error: 0.0067
+  Rand Error: 0.6567
+  Pixel Error: 0.1810
+  IoU: 0.7689
+  TP: 177963, FP: 51117, TN: 30688, FN: 2376
+
+Image #10:
+  Warping Error: 0.0063
+  Rand Error: 0.6099
+  Pixel Error: 0.1618
+  IoU: 0.7883
+  TP: 183177, FP: 46626, TN: 29760, FN: 2581
+
+Image #11:
+  Warping Error: 0.0069
+  Rand Error: 0.6362
+  Pixel Error: 0.1728
+  IoU: 0.7793
+  TP: 180913, FP: 48475, TN: 29998, FN: 2758
+
+Image #12:
+  Warping Error: 0.0064
+  Rand Error: 0.5349
+  Pixel Error: 0.1455
+  IoU: 0.8104
+  TP: 188678, FP: 42122, TN: 29309, FN: 2035
+
+Image #13:
+  Warping Error: 0.0057
+  Rand Error: 0.5734
+  Pixel Error: 0.1444
+  IoU: 0.8084
+  TP: 189296, FP: 42955, TN: 27978, FN: 1915
+
+Image #14:
+  Warping Error: 0.0052
+  Rand Error: 0.5569
+  Pixel Error: 0.1381
+  IoU: 0.8137
+  TP: 190031, FP: 42080, TN: 28613, FN: 1420
+
+Image #15:
+  Warping Error: 0.0063
+  Rand Error: 0.5583
+  Pixel Error: 0.1381
+  IoU: 0.8196
+  TP: 191350, FP: 40558, TN: 28665, FN: 1571
+
+Image #16:
+  Warping Error: 0.0070
+  Rand Error: 0.6686
+  Pixel Error: 0.1827
+  IoU: 0.7676
+  TP: 179210, FP: 52998, TN: 28686, FN: 1250
+
+Image #17:
+  Warping Error: 0.0069
+  Rand Error: 0.5790
+  Pixel Error: 0.1476
+  IoU: 0.8106
+  TP: 188459, FP: 42300, TN: 29665, FN: 1720
+
+Image #18:
+  Warping Error: 0.0060
+  Rand Error: 0.5843
+  Pixel Error: 0.1498
+  IoU: 0.8047
+  TP: 187465, FP: 44037, TN: 29194, FN: 1448
+
+Image #19:
+  Warping Error: 0.0056
+  Rand Error: 0.5041
+  Pixel Error: 0.1236
+  IoU: 0.8309
+  TP: 191303, FP: 37375, TN: 31918, FN: 1548
+
+Image #20:
+  Warping Error: 0.0057
+  Rand Error: 0.5429
+  Pixel Error: 0.1392
+  IoU: 0.8134
+  TP: 187461, FP: 40991, TN: 31689, FN: 2003
+
+Image #21:
+  Warping Error: 0.0061
+  Rand Error: 0.5336
+  Pixel Error: 0.1458
+  IoU: 0.8132
+  TP: 190197, FP: 42160, TN: 28249, FN: 1538
+
+Image #22:
+  Warping Error: 0.0058
+  Rand Error: 0.4953
+  Pixel Error: 0.1322
+  IoU: 0.8266
+  TP: 192081, FP: 38641, TN: 29769, FN: 1653
+
+Image #23:
+  Warping Error: 0.0060
+  Rand Error: 0.5710
+  Pixel Error: 0.1558
+  IoU: 0.7978
+  TP: 188788, FP: 46931, TN: 25500, FN: 925
+
+Image #24:
+  Warping Error: 0.0057
+  Rand Error: 0.5482
+  Pixel Error: 0.1414
+  IoU: 0.8100
+  TP: 187081, FP: 42304, TN: 31183, FN: 1576
+
+Image #25:
+  Warping Error: 0.0056
+  Rand Error: 0.5466
+  Pixel Error: 0.1442
+  IoU: 0.8097
+  TP: 187810, FP: 42546, TN: 30208, FN: 1580
+
+Image #26:
+  Warping Error: 0.0053
+  Rand Error: 0.5435
+  Pixel Error: 0.1365
+  IoU: 0.8172
+  TP: 186377, FP: 39885, TN: 34080, FN: 1802
+
+Image #27:
+  Warping Error: 0.0059
+  Rand Error: 0.5359
+  Pixel Error: 0.1340
+  IoU: 0.8209
+  TP: 187266, FP: 38828, TN: 34024, FN: 2026
+
+Image #28:
+  Warping Error: 0.0070
+  Rand Error: 0.6825
+  Pixel Error: 0.1895
+  IoU: 0.7573
+  TP: 176152, FP: 55001, TN: 29554, FN: 1437
+
+Image #29:
+  Warping Error: 0.0067
+  Rand Error: 0.6575
+  Pixel Error: 0.1810
+  IoU: 0.7591
+  TP: 174589, FP: 54273, TN: 32137, FN: 1145
+
+Average Metrics:
+----------------------------------------
+Average Warping Error: 0.0061
+Average Rand Error: 0.5907
+Average Pixel Error: 0.1577
+Average IoU: 0.7928 (calculated from all 30 images)
+
+Total Confusion Matrix:
+  True Positives: 5503496
+  False Positives: 1387658
+  True Negatives: 923212
+  False Negatives: 49954
+
+Global Metrics (calculated from total pixel counts):
+  Global Pixel Error: 0.1828
+  Global IoU: 0.7929
+
+Boundary Detection Benchmark Metrics:
+----------------------------------------
+ODS (Optimal Dataset Scale): 0.8252 at threshold 0.99
+OIS (Optimal Image Scale): 0.8251
